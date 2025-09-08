@@ -1,0 +1,10 @@
+{
+  "users": {
+    "tej": {
+      "salt_b64": "joMJ3XOQ2xs/N34dt9hVQQ==",
+      "hash_b64": "Tw1fwn/ItfbNKroENptoHosLu8zikZMaZC+xY8/2C2E=",
+      "iterations": 200000,
+      "algorithm": "pbkdf2_sha256"
+    }
+  }
+}
