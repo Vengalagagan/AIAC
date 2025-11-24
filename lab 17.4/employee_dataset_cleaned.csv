@@ -1,0 +1,6 @@
+employee_id,department,job_role,salary,joining_date,department_encoded,job_role_encoded
+1,HR,Manager,55000.0,2022-01-15,0,0
+2,HR,Analyst,55000.0,2022-01-15,0,1
+3,HR,Analyst,49000.0,2022-01-15,0,1
+4,HR,Engineer,62000.0,2022-01-15,0,2
+5,IT,Manager,55000.0,2022-01-15,1,0

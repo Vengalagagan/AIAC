@@ -1,0 +1,11 @@
+date,company_name,sector,stock_price,volume
+2025-01-01,Apple,Technology,150.2,100000.0
+2025-01-02,Apple,Technology,151.5,110000.0
+2025-01-03,Apple,Technology,,105000.0
+2025-01-04,Apple,Technology,153.0,
+2025-01-05,Apple,Technology,154.1,130000.0
+2025-01-06,Microsoft,Technology,310.5,200000.0
+2025-01-07,Microsoft,Technology,,210000.0
+2025-01-08,Microsoft,Technology,312.9,
+2025-01-09,Tesla,Automotive,800.0,500000.0
+2025-01-10,Tesla,Automotive,805.5,495000.0

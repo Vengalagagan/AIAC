@@ -1,0 +1,7 @@
+transaction_id,transaction_date,transaction_amount,customer_id
+101,2025-01-15,2500,C01
+102,15/02/2025,-300,C02
+103,03 Mar 2025,0,C03
+104,,1500,C04
+105,2025-01-20,3200,C05
+106,2025/01/25,2800,C06

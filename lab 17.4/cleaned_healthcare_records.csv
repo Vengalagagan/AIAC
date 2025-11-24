@@ -1,0 +1,7 @@
+gender,height_cm,blood_pressure,heart_rate
+Male,170.0,120.0,80.0
+Male,165.0,131.25,75.0
+Male,166.0,130.0,82.5
+Female,180.0,140.0,90.0
+Female,160.0,135.0,85.0
+Other,155.0,131.25,82.5

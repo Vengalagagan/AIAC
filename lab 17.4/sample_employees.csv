@@ -1,0 +1,6 @@
+employee_id,department,job_role,salary,joining_date
+1,HR,Manager,55000.0,2022/01/15
+2,human resources,Analyst,,15-02-2021
+3,hr,Analyst,49000.0,
+4,,Engineer,62000.0,2020-03-20
+5,IT,Manager,,03 Apr 2019
